@@ -1,5 +1,6 @@
-# NLP_Transformers
-Seq2Seq using Transformers on the Multi30k dataset. Translation of German sentence to English.
+# NLP_Transformers application
+Transformer Applications in NLP (A Machine Translation) is the paper submitted to "Learning from data" course at the university based on the project NLP Transformer application of German sentence to English Translation.
+Seq2Seq using Transformers on the Multi30k dataset.
 
 Tools: 
 Python
